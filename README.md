@@ -2,7 +2,7 @@
 
 <br>
 🧑🏽‍💻 I'm JP, a data scientist based in the Philippines 🇵🇭. <br>
-⚙️ I'm interested in bridging **AI** and **epidemiology**. <br>
+⚙️ I'm interested in bridging AI and epidemiology. <br>
 🗣️ I speak Python, R, and a bit of SQL and JavaScript (particularly D3.js). <br>
 🌏 On my spare time, I learn languages: Estoy practicando mi español castellano y LATAM. ¡Pero estoy llegando allí! <br>
 
