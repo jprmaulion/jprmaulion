@@ -8,7 +8,7 @@
 
 <br>
 
-### Here are some of the projects that I worked on so far:
+### Here are some of the projects that I worked on so far (I add at least _one_ project per month!):
 1. [Customer churn analysis of a telco dataset](https://github.com/jprmaulion/customer-churn-analysis) <br>
 2. [Dam water level data analysis and prediction](https://github.com/jprmaulion/dam-waterLevel-prediction) <br>
 3. [Simple agent-based modeling of cow grazing over a square lattice](https://github.com/jprmaulion/abm-cowGrazing) <br>
@@ -19,4 +19,4 @@
 <br>
 
 ### Let's connect!
-Reach me at my socials or shoot me an email at jprmaulion[at]gmail[dot]com. 🫶🏾
+Reach me at my socials or shoot me an email at jprmaulion[at]gmail[dot]com. 🫶🏾 
