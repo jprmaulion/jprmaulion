@@ -16,7 +16,7 @@
 5. [Forecasting dengue cases in Metro Manila, Philippines using RNNs](https://github.com/jprmaulion/rnn_dengue) <br>
 6. [Simple d3.js-based COVID-19 dashboard for the Philippines 🇵🇭](https://github.com/jprmaulion/d3js-covid19ph) <br>
 7. [OCR text detection and recognition tool on a Japanese store invoice using PaddleOCR](https://github.com/jprmaulion/japanese-receipt-ocr-cv/) <br>
-8. [Identifying TB Patients at Risk of Early Treatment Departure Using a Bayesian-Optimized XGBoost Model](https://github.com/jprmaulion/tb-hama-predict-xgboost)
+8. [Identifying TB patients at risk of early treatment departure using a Bayesian-optimized XGBoost model](https://github.com/jprmaulion/tb-hama-predict-xgboost)
 
 <br>
 
